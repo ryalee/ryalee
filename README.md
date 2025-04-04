@@ -1,4 +1,4 @@
-<h3 align="center">Desenvolvedor FrontEnd e Mobile</h3>
+<h3 align="center">Desenvolvedor Web e Mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryalee&label=Profile%20views&color=0e75b6&style=flat" alt="ryalee" /> </p>
 

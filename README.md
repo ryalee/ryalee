@@ -1,7 +1,5 @@
-### Olá mundo, Ryan na voz :)
+### Olá mundo
 Sou um Engenheiro de Software que apesar de me intitular Frontend também me aventuro no Backend.
-Além do código também curto guitarra, livros e nerdices no geral.
-
 - 🖥️ Atualmente focado em:
 <div style="display: flex; flex-direction: row; background-color: white; width: 100% ">
     &nbsp;&nbsp;<img width='50' height='50' src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Ftypescript_plain_logo_icon_146316.png&id=146316&pack_or_individual=pack" />&nbsp;&nbsp;

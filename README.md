@@ -30,7 +30,7 @@
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,java,html,css,git,github" />
 </p>
 
 ---

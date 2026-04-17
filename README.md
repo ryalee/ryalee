@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá mundo, eu me chamo Ryan Alecrim</h1>
+<h1 align="center">👋 Olá mundo</h1>
 
 <p align="center">
   Engenheiro de software que se aventura nesse mar da tecnologia ⛵
@@ -16,21 +16,20 @@
 
 ⚙️ Também trabalho com:
 - Node.js
-- Java
+- Python
 - APIs e integrações
 - Construção de RPAs, ERPs e CRM
 
 🚀 Atualmente:
-- Atuo como freelancer (dashboards, automações, IA)
+- Atuando como freelancer, mas aberto a oportunidades e colaborações
 - Estudando Java
-- Buscando oportunidades como desenvolvedor
 
 ---
 
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,java,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,java,python,git" />
 </p>
 
 ---

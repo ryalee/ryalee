@@ -30,7 +30,7 @@
 ### Que domino
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,sql,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,mysql,git" />
 </p>
 
 ### Que estou estudando/aperfeiçoando

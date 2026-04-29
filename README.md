@@ -27,11 +27,17 @@
 ---
 
 ## 🛠️ Tecnologias
+### Que domino
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,java,python,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,sql,git" />
 </p>
 
+### Que estou estudando/aperfeiçoando
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
 ---
 
 ## 🚀 Projetos em destaque

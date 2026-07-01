@@ -1,7 +1,7 @@
 # 💫 Sobre:
 👨🏻‍💻 Engenheiro de Software e curioso de cibersegurança<br>Atualmente estudando java<br>Provavelmente o nerd #1
 
-## 🌐 Social:
+## 🌐 Onde me encontrar:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ryanasx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryan-alecrim-sodre/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@zunbee) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21352584/ryan) 
 
 # 💻 Tech Stack:

@@ -1,8 +1,7 @@
-# 💫 About Me:
-Engenheiro de Software e curioso de cibersegurança<br>Atualmente estudando java<br>Provavelmente o nerd #1
+# 💫 Sobre:
+👨🏻‍💻 Engenheiro de Software e curioso de cibersegurança<br>Atualmente estudando java<br>Provavelmente o nerd #1
 
-
-## 🌐 Socials:
+## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ryanasx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ryan-alecrim-sodre/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@zunbee) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21352584/ryan) 
 
 # 💻 Tech Stack:
@@ -11,8 +10,7 @@ Engenheiro de Software e curioso de cibersegurança<br>Atualmente estudando java
 ![](https://github-readme-stats.shion.dev/api?username=ryalee&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ryalee&theme=synthwave&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ryalee&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
+ <br/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

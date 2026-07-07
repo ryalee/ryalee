@@ -1,5 +1,5 @@
 # 💫 Sobre:
-👨🏻‍💻 Engenheiro de Software e curioso de cibersegurança<br>Atualmente estudando java<br>Provavelmente o nerd #1
+👨🏻‍💻 Engenheiro de Software e curioso de cibersegurança<br>☕ Atualmente estudando java<br>🤓 Provavelmente o nerd #1
 
 ## 🌐 Onde me encontrar:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ryanasx/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-alecrim-sodre/) 

@@ -1,12 +1,11 @@
-# 💫 Sobre:
-<div>
- <p>
+# 👾 Sobre:
+<div align="right">
+ <p align="left">
   👨🏻‍💻 Engenheiro de Software<br>☕ Explorando Cybersecurity<br>
  </p>
  
- <p align="center">
-   <img src="one-piece-pixel.gif" width="200" alt="gif brook one piece">
- </p>
+ <img src="one-piece-pixel.gif" width="250" alt="gif brook one piece">
+
 </div>
 
 ## 🌐 Onde me encontrar:

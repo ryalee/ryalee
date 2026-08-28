@@ -28,8 +28,6 @@
 
 <div align="center">
 
-## 📊 Stats:
-![](https://github-readme-stats.shion.dev/api?username=ryalee&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)
 
 </div>
   
